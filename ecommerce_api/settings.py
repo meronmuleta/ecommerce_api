@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-9z#4g@6auju*rwjb*^^a74mp)nk9w=wfg%2mhsfduxkmdn*#f9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['alx-ecommerce-api.azurewebsites.net', 'localhost']
+ALLOWED_HOSTS = ['alx-ecommerce-api-ffbzebf8d9awcfe4.westus-01.azurewebsites.net', 'localhost']
 
 
 # Application definition
